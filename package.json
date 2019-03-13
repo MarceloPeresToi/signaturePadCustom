@@ -1,0 +1,59 @@
+{
+  "_from": "react-native-signature-pad@0.0.9",
+  "_id": "react-native-signature-pad@0.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-q2uD1lUBgbrb1d2Ad+w9aPbhviFa0trjNCbFSt7gVd9eV7gp3yp2rg18UT7hrmepN5qiuCrl8fJ+dRi/XvYSQQ==",
+  "_location": "/react-native-signature-pad",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-signature-pad@0.0.9",
+    "name": "react-native-signature-pad",
+    "escapedName": "react-native-signature-pad",
+    "rawSpec": "0.0.9",
+    "saveSpec": null,
+    "fetchSpec": "0.0.9"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-signature-pad/-/react-native-signature-pad-0.0.9.tgz",
+  "_shasum": "af17191e409174fb634ac7d75a724f3d20869d30",
+  "_spec": "react-native-signature-pad@0.0.9",
+  "_where": "/Users/mptoi/RD/field-service-app",
+  "author": {
+    "name": "Kevin Stumpf"
+  },
+  "bugs": {
+    "url": "https://github.com/DispatcherInc/react-native-signature-pad/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "deprecated": false,
+  "description": "React Native wrapper around szimek's Canvas based Signature Pad",
+  "homepage": "https://github.com/DispatcherInc/react-native-signature-pad#readme",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "signature",
+    "pad",
+    "signaturepad",
+    "canvas"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-signature-pad",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DispatcherInc/react-native-signature-pad.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.9"
+}
